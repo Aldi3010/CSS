@@ -1,0 +1,68 @@
+#mystyle {
+
+   display: 
+none
+;
+
+}
+<hr>
+
+p {
+position: : fixed;
+left:  : 50px;
+top: : : 100px;}
+<hr>
+div {
+
+width: 150px;
+
+height: 150px;
+
+background-color: LightBlue;
+
+float: left;
+
+overflow
+: 
+scroll
+;}
+<hr>
+
+#text {
+
+overflow: 
+scroll 
+;
+
+height: 200px;
+
+width: 
+500px
+;
+
+}<hr>
+
+#red {
+
+position
+: absolute;
+
+top: 100px;
+
+left: 100px;
+
+z-index: 20;
+
+}
+
+#blue {
+
+position: relative;
+
+z-index: 50;
+
+display: 
+none
+;
+
+}

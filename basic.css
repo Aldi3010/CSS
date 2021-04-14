@@ -1,0 +1,41 @@
+<head>
+
+ <
+link
+ rel="stylesheet" href="test.css">
+
+</head>
+
+#intro
+ {
+
+   background-color: yellow;
+
+}
+
+.mytext
+ {
+
+   color: black;
+
+}
+
+ #test p {
+
+
+   color: red;
+
+
+}
+/*coment*/
+
+<style>
+   body {color: green; }
+   .mydiv {color: red; }
+</style>
+<body>
+   <div class="mydiv">
+      <p>Some text</p>
+   </div>
+</body>
+

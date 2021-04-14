@@ -1,0 +1,152 @@
+.withshadow {
+
+    filter: 
+drop-shadow
+(5px 9px 2px red);
+
+}
+
+.filtered {
+
+  
+filter
+: 
+grayscale
+(50%);
+
+}
+.filtered {
+
+  
+filter
+: 
+sepia
+(200%);
+
+}
+
+.fully_inverted {
+
+  
+filter
+: invert(
+100
+%);
+
+}
+
+#my_image .ghost {
+
+  filter: 
+opacity
+(
+50%);
+
+  width: 100px;
+
+  height: 100px;
+
+} 
+
+.very_bright {
+
+  
+filter
+: 
+brightness
+(150%);
+
+  border-
+radius
+: 50%;
+
+}
+
+#my_image .gray_effect {
+
+  filter: 
+contrast
+(0%);
+
+  width: 150px;
+
+}
+
+#my_image .glitchy {
+
+  border: solid 1px black;
+
+  
+filter
+: 
+blur
+(5px);
+
+}
+
+#avatar .deactivated {
+
+  filter: saturate(30%) 
+
+    
+drop-shadow
+(5px 9px 2px gray) 
+
+    
+blur(1px);
+
+    border-radius: 
+50%;
+
+}
+
+.filtered {
+
+  filter: 
+hue-rotate
+(80deg);
+
+}
+
+.modified {
+  filter: 
+ 
+saturate
+ 
+(55%) 
+ 
+invert (70%);
+}
+
+.filtered {
+
+  filter: grayscale(
+100%)
+
+   drop-shadow
+(5px 9px 2px gray);
+
+}
+
+.filtered {
+
+  filter: 
+blur
+(5px) brightness (110%);
+
+}
+
+img {
+  
+  
+border-radius: 50%;
+  filter: 
+  
+sepia
+ 
+(30%) 
+     drop-shadow(5px 9px 2px red) 
+     blur(1px);
+  width: 100px;
+  height: 100px;
+}

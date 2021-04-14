@@ -1,0 +1,27 @@
+.test {
+
+animation-name: sizechange;
+
+animation-duration: 5s;
+
+animation-timing-function: ease;
+
+animation-delay: 2s;animation-iteration-count: 
+infinite;}
+
+#ball
+ {
+
+   
+transform
+ : 
+rotate(-45deg);
+}
+
+p {
+transform:rotate(180deg);
+}
+p::first-letter{
+color:red;
+font-weight: bold;
+}
